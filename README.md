@@ -180,7 +180,7 @@ public function it_lists_service_orders()
 Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/usuario/repo.git
+git clone https://github.com/alnogueirati/testephpqajr
 cd repo
 ```
 
